@@ -5,16 +5,17 @@ homepage: https://abdulaziz.dev
 repository: https://github.com/abdulaziz-mohammed/whiteboardkit
 
 environment:
-  sdk: ">=2.2.2 <3.0.0"
+  sdk: '>=3.0.5 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  json_annotation: ^3.0.1
-  font_awesome_flutter: ^8.4.0
-  xml: ^3.3.1
-  async: ^2.4.1
-  synchronized: ^2.2.0
+  json_annotation: ^4.8.1
+  font_awesome_flutter: ^10.5.0
+  xml: ^6.3.0
+  async: ^2.11.0
+  synchronized: ^3.1.0
+  collection: ^1.17.1
 
 dev_dependencies:
   flutter_test:
